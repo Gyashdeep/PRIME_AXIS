@@ -1,0 +1,18 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Environment variables
+.env
+
+# Databases & Persistence
+*.db
+*.sqlite3
+
+# Logs & Data
+*.log
+data/
+
+# IDE/OS files
+.vscode/
+.DS_Store
